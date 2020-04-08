@@ -1,4 +1,4 @@
-# DataBestPractices
+# Data Best Practices for Azure Cloud
 
 Collection of Data Best Practices for Azure Cloud
 
